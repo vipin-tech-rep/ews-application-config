@@ -1,5 +1,6 @@
 config:
   feed:
+    acceptancePercentage: 99
     staticInfoFeed:
       hotelIdsPartitionSize: 250
       filesGenerationConfig:
